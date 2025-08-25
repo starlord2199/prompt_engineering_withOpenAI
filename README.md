@@ -1,5 +1,3 @@
-# prompt_engineering_withOpenAI
-
 # Prompt Engineering & Programming with OpenAI
 
 This repository contains my work from the Prompt Engineering & Programming with OpenAI course, which focuses on building practical skills to design, implement, and deploy generative AI solutions using OpenAI’s models and APIs.
